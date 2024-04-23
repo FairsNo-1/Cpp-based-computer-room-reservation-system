@@ -6,48 +6,55 @@
 
 ## 身份介绍
 
-学生：申请使用机房；
+学生：
 
-教师：对学生的申请进行审核；
+  申请使用机房；
 
-管理员：管理学生、教师账号信息。
+教师：
+
+  对学生的申请进行审核；
+
+管理员：
+
+  管理学生、教师账号信息。
 
 ## 功能介绍
 
 学生；
 
-进行预约---接口：applyOrder
+  进行预约---接口：applyOrder
 
-查看我的预约---接口：showMyOrder
+  查看我的预约---接口：showMyOrder
 
-查看所有预约---接口：showAllOrder 
+  查看所有预约---接口：showAllOrder 
 
-注销登录
+  注销登录
 
 教师：
 
-查看所有预约---接口：showAllOrder
+  查看所有预约---接口：showAllOrder
 
-审核预约---接口：validOrder
+  审核预约---接口：validOrder
 
-注销登录
+  注销登录
 
 管理员：
 
-添加账号---接口：addPerson
+  添加账号---接口：addPerson
 
-查看账号---接口：showPerson
+  查看账号---接口：showPerson
 
-查看机房信息---接口：showComputer
+  查看机房信息---接口：showComputer
 
-清空预约---接口：cleanFile
+  清空预约---接口：cleanFile
 
-注销登录
+  注销登录
 
-#快速启动
 
-运行debug文件夹下的机房预约系统.exe
+# 快速启动
 
-#参考
+  运行debug文件夹下的机房预约系统.exe
 
-itheima
+# 参考
+
+  itheima
